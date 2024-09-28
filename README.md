@@ -1,5 +1,3 @@
-Here's the modified version of your Train Booking Backend System project with added emojis:
-
 # 🚆 Train Booking Backend System (IRCTC)
 
 ![Node.js](https://img.shields.io/badge/node.js-v14.17.0-green)
@@ -183,7 +181,6 @@ Ensure the following environment variables are set in your `.env` file:
 
 - **Users**: Stores user information (ID, username, password, role).
 - **Trains**: Stores train information (ID, name, source, destination, total seats).
-- **Bookings**: Stores booking details (ID, train ID, user ID, number of seats booked).
 
 ## ⛓️ Handling Race Conditions
 
