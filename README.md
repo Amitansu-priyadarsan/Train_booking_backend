@@ -96,11 +96,7 @@ This project is a backend system for a railway management platform similar to IR
      ```bash
      npm start
      ```
-   - For Python:
-     ```bash
-     python app.py
-     ```
-
+ 
 ## Environment Variables
 
 Ensure the following environment variables are set in your `.env` file:
